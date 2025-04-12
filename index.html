@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RETRO AGE ARCADE</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="game-container">
+        <canvas id="game-canvas"></canvas>
+        
+        <div id="intro-modal" class="modal">
+            <div class="modal-content">
+                <h2>RETRO AGE ARCADE</h2>
+                <p>WELCOME TO THE AGE CALCULATOR!</p>
+                <p>MOVE WITH ARROW KEYS OR WASD</p>
+                <p>JUMP WITH SPACE OR UP ARROW</p>
+                <p>COMPLETE ALL STAGES TO SEE YOUR AGE!</p>
+                <button id="start-game">START GAME</button>
+            </div>
+        </div>
+        
+        <div id="name-input-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2>ENTER YOUR NAME</h2>
+                <input type="text" id="name-input" maxlength="12" placeholder="HERO NAME">
+                <button id="name-submit">SUBMIT</button>
+            </div>
+        </div>
+        
+        <div id="dob-input-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2>ENTER YOUR BIRTH DATE</h2>
+                <input type="date" id="dob-input">
+                <button id="dob-submit">SUBMIT</button>
+            </div>
+        </div>
+        
+        <div id="age-reveal-modal" class="modal hidden">
+            <div class="modal-content">
+                <h2 id="player-name-display"></h2>
+                <div id="age-display"></div>
+                <div id="funky-text"></div>
+                <button id="play-again">PLAY AGAIN</button>
+            </div>
+        </div>
+    </div>
+    
+    <audio id="bg-music" loop>
+        <source src="assets/music/game-8-bit-on-278083.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="footstep-sfx">
+        <source src="assets/sfx/sfx_movement_footstep5.wav" type="audio/wav">
+    </audio>
+    <audio id="jump-sfx">
+        <source src="assets/sfx/sfx_movement_jump2.wav" type="audio/wav">
+    </audio>
+    <audio id="portal-sfx">
+        <source src="assets/sfx/sfx_movement_portal1.wav" type="audio/wav">
+    </audio>
+    
+    <script src="game.js"></script>
+</body>
+</html>
