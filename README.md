@@ -4,7 +4,7 @@
 
 ---
 
-## 🌈 What is this?
+## 👉 What is this?
 
 This is not your usual boring calculator.  
 **Retro Age Arcade** is a **Mario-style, side-scrolling age calculator game** made using HTML, CSS, and JavaScript. A fun twist on a classroom project, turned into a playable arcade experience. Inspired by pixel art, and the nostalgia of 8-bit soundtracks.
