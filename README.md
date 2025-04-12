@@ -88,7 +88,7 @@ It instantly shows your exact age when your character reaches the result zone.
 
 ## 📸 Output Snapshots
 
- ![image](https://github.com/user-attachments/assets/c110768f-e46e-4119-9a0a-6d7f2f49660f)  ![image](https://github.com/user-attachments/assets/64cc99ea-f6b4-4f65-b07d-ed4d698e62a3) 
+ ![image](https://github.com/user-attachments/assets/4afaa9cd-f432-452b-b7eb-1b2773bc1d8a)  ![image](https://github.com/user-attachments/assets/64cc99ea-f6b4-4f65-b07d-ed4d698e62a3) 
  ![image](https://github.com/user-attachments/assets/5f1f4004-bb3f-4026-b240-cd5b1db18876)  ![image](https://github.com/user-attachments/assets/699f5a08-9d8f-4eb4-981a-08ede8cd18e9) 
 
 ---
