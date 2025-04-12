@@ -7,14 +7,14 @@
 ## 🌈 What is this?
 
 This is not your usual boring calculator.  
-**Retro Age Arcade** is a **Mario-style, side-scrolling age calculator game** made using HTML, CSS, and JavaScript. A fun twist on a classroom project, turned into a playable arcade experience. Inspired by GenZ vibes, pixel art, and the nostalgia of 8-bit soundtracks.
+**Retro Age Arcade** is a **Mario-style, side-scrolling age calculator game** made using HTML, CSS, and JavaScript. A fun twist on a classroom project, turned into a playable arcade experience. Inspired by pixel art, and the nostalgia of 8-bit soundtracks.
 
 ---
 
 ## 🛠️ Features
 
 - 🧍 Move your pixel character through interactive checkpoints  
-- 🎂 Input your **Name** and **Date of Birth** by walking into glowing zones  
+- 🎂 Input your **Name** and **Date of Birth** by walking   
 - 🧮 Calculates your age in **Years, Months, Days**
 - 🎧 Retro sound effects + background music (8-bit nostalgia!)  
 - 🌆 Parallax scrolling backgrounds and pixel sprites  
@@ -88,8 +88,8 @@ It instantly shows your exact age when your character reaches the result zone.
 
 ## 📸 Output Snapshots
 
-| ![image](https://github.com/user-attachments/assets/95a299a9-8645-4501-9f3e-a280498cd1fa) | ![image](https://github.com/user-attachments/assets/64cc99ea-f6b4-4f65-b07d-ed4d698e62a3) |
-| ![image](https://github.com/user-attachments/assets/5f1f4004-bb3f-4026-b240-cd5b1db18876) | ![image](https://github.com/user-attachments/assets/699f5a08-9d8f-4eb4-981a-08ede8cd18e9) |
+ ![image](https://github.com/user-attachments/assets/c110768f-e46e-4119-9a0a-6d7f2f49660f)  ![image](https://github.com/user-attachments/assets/64cc99ea-f6b4-4f65-b07d-ed4d698e62a3) 
+ ![image](https://github.com/user-attachments/assets/5f1f4004-bb3f-4026-b240-cd5b1db18876)  ![image](https://github.com/user-attachments/assets/699f5a08-9d8f-4eb4-981a-08ede8cd18e9) 
 
 ---
 
